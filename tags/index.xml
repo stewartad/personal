@@ -1,0 +1,23 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Tags on ADS</title>
+		<link>http://austendstewart.com/tags/</link>
+		<description>Recent content in Tags </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags)</managingEditor>
+    	
+		<atom:link href="/tags/" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Welcome</title>
+			<link>http://austendstewart.com/post/welcome/</link>
+			<pubDate>Tue, 01 Sep 2020 11:57:34 -0700</pubDate>
+			<guid>http://austendstewart.com/post/welcome/</guid>
+			<description>Hello This is my new website</description>
+		</item>
+      	
+	</channel>
+</rss>
